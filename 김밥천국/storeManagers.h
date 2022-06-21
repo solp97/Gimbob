@@ -1,11 +1,12 @@
 #pragma once
-#include "GameManager.h"
 
+#include <string>
+using namespace std;
 class storeManagers
 {
 private:
 	string _name;
-	int takenTime;
+
 
 public:
 	storeManagers();

@@ -1,5 +1,4 @@
-#include "GameManager.h"
-
+#include "Foods.h"
 Foods::Foods()
 {
 }

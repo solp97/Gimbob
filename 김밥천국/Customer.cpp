@@ -1,5 +1,4 @@
-#include "GameManager.h"
-
+#include "Customer.h"
 Customer::Customer()
 {
 }

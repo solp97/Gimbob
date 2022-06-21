@@ -1,5 +1,6 @@
 #pragma once
-#include "GameManager.h"
+#include <string>
+using namespace std;
 class Foods
 {
 private:

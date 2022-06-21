@@ -3,7 +3,6 @@
 #include "Customer.h"
 #include "Table.h"
 #include "Foods.h"
-#include "Frame.h"
 
 #include <string>
 #include <iostream>
@@ -20,6 +19,7 @@ private:
 	storeManagers* _Serving;
 	Customer* _customer;
 	Table* _table;
+	Foods* _food;
 
 public:
 	GameManager();

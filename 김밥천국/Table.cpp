@@ -1,4 +1,4 @@
-#include "GameManager.h"
+#include "Table.h"
 
 Table::Table()
 {
