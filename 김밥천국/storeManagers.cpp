@@ -1,4 +1,4 @@
-#include "storeManagers.h"
+#include "GameManager.h"
 
 storeManagers::storeManagers()
 {

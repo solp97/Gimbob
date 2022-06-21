@@ -4,5 +4,10 @@ class Foods
 {
 private:
 	string _name;
+	int cost;
+
+public:
+	Foods();
+	~Foods();
 };
 

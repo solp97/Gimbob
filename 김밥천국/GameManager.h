@@ -2,6 +2,9 @@
 #include "storeManagers.h"
 #include "Customer.h"
 #include "Table.h"
+#include "Foods.h"
+#include "Frame.h"
+
 #include <string>
 #include <iostream>
 using namespace std;

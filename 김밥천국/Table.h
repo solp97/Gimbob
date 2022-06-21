@@ -6,5 +6,9 @@ class Table
 private:
 	string _name;
 	bool _isClean;
+
+public:
+	Table();
+	~Table();
 };
 

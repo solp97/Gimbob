@@ -1,5 +1,4 @@
-#include <iostream>
-#include "Frame.h"
+#include "GameManager.h"
 
 using namespace std;
 

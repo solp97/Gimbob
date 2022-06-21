@@ -5,6 +5,7 @@ class storeManagers
 {
 private:
 	string _name;
+	int takenTime;
 
 public:
 	storeManagers();
